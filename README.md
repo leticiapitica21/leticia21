@@ -2,7 +2,7 @@
 # Bem vindos ao meu perfil!
 
 Meu nome é Leticia Parra Silva, tenho 16 anos
-- Estou cursando o 3 ano do ensimo médio integral
+- Estou cursando o 3 ano do ensino médio integral
 - Estou estudando em Alura
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 - Sou dedicada e organizada
